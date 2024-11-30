@@ -40,12 +40,12 @@ Our approach evolved through three stages:
 - Explore alternative pretrained models.
 - Use callbacks like early stopping and learning rate scheduling.
 - Experiment with different loss functions, optimizers, and more epochs.
-- Implement advanced data augmentation techniques (e.g., zoom).
+- Implement advanced data augmentation techniques.
 - Fine-tune more layers of the pretrained model.
 - Employ model ensembling to boost performance.
 
 ## Conclusion
-This project demonstrates the iterative nature of deep learning, requiring continuous experimentation to optimize performance. A thorough understanding of the dataset and careful selection of data augmentation and model architecture were crucial in achieving competitive results.
+this project allowed us to put into practice deep learning techniques learned at classes, requiring continuous experimentation to optimize performance. A thorough understanding of the dataset and careful selection of data augmentation and model architecture were crucial in achieving competitive results
 
 
 ## Citation
