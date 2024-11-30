@@ -4,7 +4,7 @@ This project was developed for the PolytechNice2023 Deep Learning for Media comp
 - **Objective**: Build a robust classification model for 102 insect species.
 - **Dataset**: IP102 Dataset, with highly imbalanced classes.
 - **Techniques**: Deep learning methods using PyTorch and Keras, experimenting with multiple architectures and optimization strategies.
-- **Competition**: Hosted on Kaggle.
+- **Competition**: Kaggle.
 
 ## Progress Highlights
 
@@ -45,7 +45,7 @@ Our approach evolved through three stages:
 - Employ model ensembling to boost performance.
 
 ## Conclusion
-this project allowed us to put into practice deep learning techniques learned at classes, requiring continuous experimentation to optimize performance. A thorough understanding of the dataset and careful selection of data augmentation and model architecture were crucial in achieving competitive results
+This project allowed us to put into practice deep learning techniques learned at classes, requiring continuous experimentation to optimize performance. A thorough understanding of the dataset and careful selection of data augmentation and model architecture were crucial in achieving competitive results
 
 
 ## Citation
